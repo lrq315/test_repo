@@ -1,4 +1,12 @@
+
 also add something I think its third before
 first_test.txt---still want to modified but dont know the seconde modified
 also add something I think its third after
 also add something I think its third  after after
+
+also add a new line before origin
+first_test.txt————but modified
+also add a new line after origin
+
+
+okay save all and add this line
